@@ -1,0 +1,19 @@
+PODS:
+  - BZLib (0.1.0):
+    - Protobuf (~> 3.0.0-beta-2)
+  - Protobuf (3.0.0-beta-4)
+
+DEPENDENCIES:
+  - BZLib (from `../`)
+
+EXTERNAL SOURCES:
+  BZLib:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  BZLib: 2e2d8b907c45c008f24e54937cdd5d24a2d4ae9e
+  Protobuf: ec704f0045f7a30e1686fbb3994f43f689a0021b
+
+PODFILE CHECKSUM: acde551e70354d5f647ba415c6782c3244c63535
+
+COCOAPODS: 1.0.1
